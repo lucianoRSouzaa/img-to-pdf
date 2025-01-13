@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/lucianoRSouzaa/img-to-pdf-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/lucianoRSouzaa/img-to-pdf-frontend.git
